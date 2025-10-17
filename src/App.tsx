@@ -5,7 +5,16 @@ function App() {
     return (
         <div className="App">
             <HeaderCv>
-                <nav></nav>
+                <nav>
+                    <img src="" alt="" title=""/>
+                    <ul>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </nav>
             </HeaderCv>
 
             <SectionCv></SectionCv>
