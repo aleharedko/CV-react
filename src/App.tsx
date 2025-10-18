@@ -8,7 +8,7 @@ function App() {
                 <nav>
                     <img src="" alt="" title=""/>
                     <ul>
-                        <li></li>
+                        <li>About me</li>
                         <li></li>
                         <li></li>
                         <li></li>
