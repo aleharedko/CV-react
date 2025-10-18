@@ -10,7 +10,7 @@ function App() {
                     <ul>
                         <li>About me</li>
                         <li>1</li>
-                        <li></li>
+                        <li>2</li>
                         <li></li>
                         <li></li>
                     </ul>
