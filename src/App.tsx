@@ -9,7 +9,7 @@ function App() {
                     <img src="" alt="" title=""/>
                     <ul>
                         <li>About me</li>
-                        <li></li>
+                        <li>1</li>
                         <li></li>
                         <li></li>
                         <li></li>
