@@ -6,7 +6,7 @@ function App() {
         <div className="App">
             <HeaderCv>
                 <nav>
-                    <img src="" alt="" title=""/>
+                    <Image src="/assets/logo.png" alt="" title=""/>
                     <ul>
                         <li>About me</li>
                         <li>1</li>
@@ -60,5 +60,9 @@ const FooterCv = styled.footer`
     height: 200px;
    border: 1px solid blue;
     `
+ const Image =    styled.img`
+ width: 150px;
+ height: 150px;    
+ `
 
 ;
