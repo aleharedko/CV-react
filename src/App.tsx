@@ -6,13 +6,19 @@ function App() {
         <div className="App">
             <HeaderCv>
                 <nav>
-                    <Image src="/assets/logo.png" alt="" title=""/>
+                    <Image src="/assets/logo.png" alt="" title="Logo"/>
                     <ul>
-                        <li>About me</li>
-                        <li>1</li>
-                        <li>2</li>
-                        <li></li>
-                        <li></li>
+                        <li>Home</li>
+                        <li>About</li>
+                        <li>Tech Stack</li>
+                        <li>Projects</li>
+                        <li>Contact</li>
+                    </ul>
+
+                    <ul>
+                        <li><a href="" className="" title="Git Hub"></a></li>
+                        <li><a href="" className="" title="Linkedin"></a></li>
+                        <li><a href="" className="" title=""></a></li>
                     </ul>
                 </nav>
             </HeaderCv>
@@ -61,8 +67,8 @@ const FooterCv = styled.footer`
    border: 1px solid blue;
     `
  const Image =    styled.img`
- width: 150px;
- height: 150px;    
+ width:97px;
+ height: 59px;    
  `
 
 ;
