@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from "styled-components";
+import {Icon} from "../icon/Icon.tsx";
 
 export const Menu = () => {
     return (
@@ -13,9 +14,9 @@ export const Menu = () => {
             </ul>
 
             <ul>
-                <li><a href=""></a></li>
-                <li><a href=""></a></li>
-                <li><a href=""></a></li>
+                <li><a href=""><Icon iconId = {'gitHubLittle'}/></a></li>
+                <li><a href=""><Icon iconId = {'linked'}/></a></li>
+                <li><a href=""><Icon iconId = {'linked'}/></a></li>
             </ul>
         </StyledMenu>
     );
